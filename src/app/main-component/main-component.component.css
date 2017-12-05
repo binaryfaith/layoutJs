@@ -1,0 +1,15 @@
+#mainbody{
+    display: inline-block;
+    background-color: rgb(129, 170, 223);
+    height: 300px;
+    width: 600px;
+    float: right;
+    border-style: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    text-indent: 20px;
+    font-size: 10pt;
+}
+
+

@@ -1,0 +1,12 @@
+#head{
+    display: block;
+    height: 130px;
+    background-color: rgb(129, 170, 223);
+    border-style: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 20px;
+}
+#headspace{
+    display: block;
+    height: 20px;
+}

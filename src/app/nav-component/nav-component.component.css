@@ -1,0 +1,24 @@
+#navbody{
+    display: inline-block;
+    background-color: rgb(129, 170, 223);
+    height: 300px;
+    border-style: solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    text-indent: 20px;
+    font-size: 10pt;
+}
+#linkbody{
+
+    width: 250px;
+}
+.links{
+    border-style: solid;
+    box-shadow: 10px,10px,10px;
+    width: 180px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 10%;
+
+}
